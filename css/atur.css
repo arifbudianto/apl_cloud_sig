@@ -1,0 +1,67 @@
+hr{
+height: 1px; border: dashed #959594 0px; border-top-width: 1px;
+}
+.milih {
+    FONT-WEIGHT: regular; FONT-SIZE: 14px; COLOR: #5f605f; FONT-FAMILY: trebuchet ms; 
+}
+.panel{
+    FONT-WEIGHT: regular; FONT-SIZE: 17px; COLOR: #ffffff; FONT-FAMILY: calibri; 
+}
+.judul {
+    FONT-WEIGHT: regular; FONT-SIZE: 17px; COLOR: #eaeaec; FONT-FAMILY: trebuchet ms; border-bottom: 1px dashed #eaeaec;
+}
+.input_marker {
+    FONT-WEIGHT: regular; FONT-SIZE: 17px; COLOR: #eaeaec; FONT-FAMILY: trebuchet ms;
+}
+.penting {
+    FONT-WEIGHT: regular; FONT-SIZE: 17px; COLOR: #5f605f; FONT-FAMILY: trebuchet ms;
+}
+
+a.menu_kiri:link {color: 5f605f; text-decoration: none}
+a.menu_kiri:visited {color: 5f605f; text-decoration: none}
+a.menu_kiri:hover {color:6db606; text-decoration: none} 
+a.menu_kiri {FONT-SIZE: 14px;  FONT-FAMILY:verdana; FONT-WEIGHT: regular;}
+
+.footer{
+    FONT-WEIGHT: regular; FONT-SIZE: 11px; COLOR: #fffdfa; FONT-FAMILY: verdana; TEXT-ALIGN:center;
+}
+
+a.copyright:link {color: ffffff; text-decoration: none}
+a.copyright:visited {color:ffffff; text-decoration: none}
+a.copyright:hover {color:40ff05; text-decoration: none} 
+a.copyright {FONT-SIZE: 11px; FONT-FAMILY: trebuchet ms; FONT-WEIGHT: regular; TEXT-ALIGN:center;}
+
+.tombol{
+    FONT-SIZE: 18px; COLOR: #5f605f; FONT-FAMILY: calibri; TEXT-ALIGN:justify ;FONT-WEIGHT: regular;
+}
+
+.isi_form{
+	border:1px solid #818283;
+	font-size:14px;
+	font-weight:bold;
+	font-family:"Trebuchet MS";
+	color:#545454;
+	height:23px;
+	
+	padding-left:1px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:1px;
+	background-color:#c7c6c6;
+	}
+.isi_form:hover,form_mini:focus{
+	background-color:#f0ffc7;
+	font-size:14px;
+	font-weight:bold;
+	border-color: #ff490a;
+	padding-left:1px;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:1px;
+	}
+

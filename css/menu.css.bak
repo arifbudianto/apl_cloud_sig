@@ -1,0 +1,107 @@
+hr{
+height: 1px; border: dashed #dededf 0px; border-top-width: 1px;
+}
+
+a.login:link {color: ededf2; text-decoration: none}
+a.login:visited {color: ededf2; text-decoration: none}
+a.login:hover {color:fee300; text-decoration: none} 
+a.login{FONT-SIZE: 15px;  FONT-FAMILY:  trebuchet ms; FONT-WEIGHT: regular; TEXT-ALIGN:center;}
+
+a.menu:link {color: ededf2; text-decoration: none}
+a.menu:visited {color: ededf2; text-decoration: none}
+a.menu:hover {color:fee300; text-decoration: none} 
+a.menu {FONT-SIZE: 16px;  FONT-FAMILY:verdana; FONT-WEIGHT: regular; TEXT-ALIGN:center;}
+
+.isi{
+    FONT-WEIGHT: regular; FONT-SIZE: 17px; COLOR: #ffffff; FONT-FAMILY: calibri; TEXT-ALIGN:justify;
+}
+
+.text_input{
+    FONT-WEIGHT: regular; FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: calibri; TEXT-ALIGN:justify;
+}
+
+.by{
+    FONT-WEIGHT: regular; FONT-SIZE: 11px; COLOR: #fffdfa; FONT-FAMILY: verdana; TEXT-ALIGN:center;
+}
+
+a.copy:link {color: ffffff; text-decoration: none}
+a.copy:visited {color: ffffff; text-decoration: none}
+a.copy:hover {color:535252; text-decoration: none} 
+a.copy {FONT-SIZE: 11px; FONT-FAMILY: verdana; FONT-WEIGHT: regular; TEXT-ALIGN:center;}
+
+.form{
+    FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: calibri;FONT-WEIGHT: regular;
+}
+.form_cari{
+    FONT-SIZE: 18px; COLOR: #141414; FONT-FAMILY: calibri;FONT-WEIGHT: regular;
+}
+.tombol{
+    FONT-SIZE: 18px; COLOR: #777777; FONT-FAMILY: calibri; TEXT-ALIGN:justify ;FONT-WEIGHT: regular;
+}
+
+.isi_form{
+	border:1px solid #818283;
+	font-size:14px;
+	font-weight:bold;
+	font-family:"Trebuchet MS";
+	color:#545454;
+	height:23px;
+	
+	padding-left:1px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:1px;
+	background-color:#c7c6c6;
+	}
+.isi_form:hover,form_mini:focus{
+	background-color:#f0ffc7;
+	font-size:14px;
+	font-weight:bold;
+	border-color: #ff490a;
+	padding-left:1px;
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:1px;
+	}
+
+.isi_form_hidden{
+	border:0px solid #818283;
+	font-size:14px;
+	font-family:"Trebuchet MS";
+	color:#1d1d1d;
+	height:23px;
+	
+	padding-left:1px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:1px;
+	background-color:#b0b0b0;
+	}
+
+.halaman {
+    FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: trebuchet ms; TEXT-ALIGN:justify;
+}
+.judul_tabel{
+    FONT-WEIGHT: regular; FONT-SIZE: 17px; COLOR: #313232; FONT-FAMILY: verdana; TEXT-ALIGN:center; bold;border-bottom: 2px dashed #777777;
+}
+
+.nama_tabel {
+    FONT-WEIGHT: bold; FONT-SIZE: 19px; COLOR: #dedede; FONT-FAMILY: calibri; TEXT-ALIGN:center;
+}
+.isi_tabel {
+    FONT-WEIGHT: regular; FONT-SIZE: 16px; COLOR: #1d1d1d; FONT-FAMILY: calibri;
+}
+
+a.pic:hover .image1 {display:none}
+a.pic .image2 {display:none}
+
+a.pic:hover .image2 {display:inline}
+
+
